@@ -2,11 +2,6 @@
 //
 // This code was written by Levi Bradford.
 // Created on: December 19, 2018.
-//
-// This is the first piece of code executed after the bootloader. This has basic text printing functionality.
-// I am working on building a set of system libraries for kernel calls. This will significantly expedite the
-// coding process. The components to be added, in order, are: User input, system calls, shell capability, 64
-// bit mode, gcc ports, networking, and much much more.
 
 #ifndef TERMINAL_H_
 #define TERMINAL_H_
